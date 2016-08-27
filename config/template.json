@@ -2,6 +2,7 @@
   "discord": {
     "token": "",
     "server": "",
+    "gamesID": "",
 
     "annouce": "",
     "voice": ""
